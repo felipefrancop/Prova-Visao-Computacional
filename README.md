@@ -1,5 +1,13 @@
-## **Prova Visão Computacional**
-Aluno: Felipe Franco Pinheiro (28839111)
+<h1 align='center'>
+    <p>Prova Visão Computacional</p>
+</h1>
+
+## Desenvolvedor
+<table align='center'>
+  <tr>
+    <td align="center">
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/60533993?v=4" width="100px;" alt=""/><br /><sub><b><a href="https://github.com/felipefracop">Felipe Pinheiro</a></b></sub></a><br />28839111</td>
+  </table>
 
 ## **1. Descrição do Problema**
 
